@@ -1,0 +1,303 @@
+@media (min-width: 320px) {
+	#column-wrap-id-1584619667427 {
+		margin-top: 0px;
+	}
+
+	#sppb-addon-1584712892523 .sppb-addon-title{
+		margin-top: 0px;
+	}
+    #sp-bottom .sp-module .customprotectionCivile img {
+    
+    margin: 0 auto;
+   }
+   
+   #sp-bottom2{
+
+		text-align: center;
+
+	}
+	
+	
+	section#section-top{
+		background: none;
+		
+		.sppb-column.text-covid19{
+			padding-bottom: 100px;
+			
+			.covid .sppb-addon-title {
+				font-size: 50px;
+				font-weight: bold;
+				margin-bottom: 50px;
+				line-height: 56px;
+			}
+			.sppb-addon-content{
+				margin-bottom: 50px;
+			}
+		}
+		
+		.sppb-addon.sppb-addon-raw-html.icon-right{
+			width: 85px;
+			height: 85px;
+			right: -8px;
+			top: 34px;
+			z-index: 1;
+			
+			.imgRight {
+				width: 60px;
+				height: 60px;
+				left: 14px;
+				top: 15px;
+				svg {
+					top: 20px;
+					left: 15px
+				}
+			}
+		}
+		.sppb-addon.sppb-addon-raw-html.icon-1{
+			width: 85px;
+			height: 85px;
+			bottom: -230px;
+			left: -8px;
+			
+			.img3 {
+				width: 60px;
+				height: 60px;
+				left: 14px;
+				top: 15px;
+				svg {
+					width: 36px;
+					top: 10px;
+					left: 14px
+				}
+			}
+		}
+		
+		
+		#sppb-addon-wrapper-1584712892532 {
+			display: inline-block;
+			position: absolute;
+			bottom: -300px;
+			left: -110px;
+			text-align: right;
+		}
+		
+		.medecins {
+				position: absolute;
+				bottom: -165px;
+				left: 12px;
+				background: url(../images/backgroung-jaune-mobile.png) 10px 82px no-repeat;
+				width: 320px;
+				svg {
+					
+					background-size: auto;
+					width: 280px;
+					height: auto;
+					position: relative;
+					left: 28px;
+					//background-size: contain;
+					
+					
+				}
+		}
+	}
+	section#second{
+		background: url(../images/backgroung-orange-mobile.png) bottom right no-repeat;
+		padding: 100px !important;
+		background-size: contain;
+		z-index: -1 !important;
+		
+		.sppb-addon.sppb-addon-raw-html.points-right {
+
+			margin-right: -129px;
+			position: relative;
+			bottom: 38px;
+		}
+	}
+	
+	
+	ul.social-icons{
+		float: none;
+		
+		a{
+			span {
+				padding-left: 3px;
+				}
+		}
+	}
+	#sp-footer{
+		.customcopyright{
+			text-align: center;
+			p{
+				display: block;
+				margin: 20px 0;
+			}
+		}
+	}
+	#sp-footer2{
+			text-align: center;
+		}
+}
+
+/* Medium small (ms) */
+@media (min-width: 480px) { 
+    
+    
+}
+
+/* Small (sm) */
+@media (min-width: 640px) { 
+    
+    
+}
+
+/* Medium (md) */
+@media (min-width: 768px) { 
+    
+    
+}
+
+/* Large (lg) */
+@media (min-width: 1024px) {
+	#column-wrap-id-1584619667427 {
+		margin-top: 122px;
+	}
+	#sppb-addon-1584712892523 .sppb-addon-title{
+		margin-top: 50px;
+	}
+	section#section-top{
+		background: url(../images/backgroung-orange.png) top right no-repeat;
+		
+		.sppb-column.text-covid19{
+			padding-bottom: 0px;
+			.covid .sppb-addon-title {
+				font-size: 70px;
+				font-weight: bold;
+				line-height: 96px;
+			}
+		}
+		
+		.sppb-addon.sppb-addon-raw-html.icon-right{
+			width: 150px;
+			height: 150px;
+			
+			.imgRight {
+				width: 100px;
+				height: 100px;
+			}
+		}
+		
+		#sppb-addon-wrapper-1584712892532{
+			display: inline-block;
+			position: absolute;
+			top: 61px;
+			left: 0;
+			right: -136px;
+			text-align: right;
+			z-index: -1;
+		}
+		
+		.medecins{
+			background: url(../images/backgroung-jaune.png) 10px 30px no-repeat;
+			bottom: -40px;
+			width: 650px;
+			svg{
+
+				width: auto;
+				height: 516px;
+				position: relative;
+				left: 106px;
+				bottom: 90px;
+			}
+		}
+		
+		.sppb-addon.sppb-addon-raw-html.icon-right{
+			bottom: 75px;
+			right: -40px;
+			top: 245px;
+			
+			.imgRight {
+				width: 100px;
+				height: 100px;
+				top: 28px;
+				left: 26px;
+				svg {
+					top: 38px;
+					left: 34px;
+				}
+			}
+		}
+		.sppb-addon.sppb-addon-raw-html.icon-1{
+			width: 150px;
+			height: 150px;
+			bottom: -15px;
+			left: -40px;
+			
+			.img3 {
+				width: 100px;
+				height: 100px;
+				top: 28px;
+				left: 26px;
+				svg {
+					width: auto;
+					top: 34px;
+					left: 28px;
+				}
+			}
+		}
+	
+	}
+	section#second{
+		background: none;
+		.sppb-addon.sppb-addon-raw-html.points-right {
+			position: absolute;
+			margin-right: 0px;
+			right: 12px;
+			top: -226px;
+		}
+	}
+	
+	ul.social-icons{
+		float: right;
+		
+		a{
+			span {
+				padding-left: 12px;
+				}
+		}
+	}
+	#sp-footer{
+		.customcopyright{
+			text-align: left;
+			p{
+				display: inline;
+				margin: 0;
+			}
+		}
+	}
+	#sp-footer2{
+			text-align: right;
+		}
+	
+    
+}
+
+/* Extra Large (xl) */
+@media (min-width: 1280px) { 
+	.sppb-row-container, .container {
+			max-width: 1440px !important;
+			width: 1440px !important;
+			
+			
+	}
+
+	#sp-bottom .sp-module .customprotectionCivile img {
+    
+    margin: 0;
+   }
+    #sp-bottom2{
+
+		text-align: left;
+
+	}
+    
+}
